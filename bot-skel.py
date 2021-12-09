@@ -1,4 +1,4 @@
-
+ Copyright (C) 2021 Patricia Sirboiu
     
 
     #!./.venv/bin/python
